@@ -1,0 +1,7 @@
+{
+  "name": "PList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
