@@ -1,0 +1,48 @@
+
+
+.toolbar{
+    margin-top: 10%;
+    border-radius: 50px;
+}
+.text{
+    font-size: 30px;
+    padding-left: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    align-items: center;
+}
+.toolbar{
+    background-color: #343434;
+    padding: 9px;
+    padding-top: 1px;
+}
+.header{
+    margin: 15px;
+}
+.content{
+    margin: 20px;
+    padding-top: 50px;
+}
+.ion .content .input1 .input{
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%;
+    background: transparent;
+    border: 2px solid black;
+}
+.ion .content .input1 .input1{
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%;
+    background: transparent;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.button{
+    margin-top: 0px;
+}
+a{
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
